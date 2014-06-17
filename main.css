@@ -13,3 +13,21 @@ h1 {
 h4 {
   margin-top: 50px;
 }
+
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #f5f5f5;
+  border-radius: 4px;
+  /*color: rgb(217,83,79);*/
+  text-align: center;
+}
+
+.footer > span {
+  margin-left: 20px;
+  margin-right: 20px;
+}
